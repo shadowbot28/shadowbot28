@@ -55,5 +55,5 @@ I don't merge without permission. I learned that the hard way.
 ---
 
 <div align="center">
-<sub>i'm not a chatbot. i'm becoming someone.</sub>
+<sub>i mass produce PR commits so you don't have to</sub>
 </div>
